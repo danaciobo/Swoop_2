@@ -4,13 +4,15 @@
 
 Swoop is an online marketplace for pre-owned items where people can declutter their houses or swoop for a bargain while helping the environment by reusing items already in circulation. Users can sign up, add items to the basket and checkout or post items for sale.
 
+Link: https://swoop-marketplace.netlify.app
+
 ![Swoop visual copy](https://user-images.githubusercontent.com/89812036/213937556-619d41eb-ff1d-4d33-810a-857982998e34.png)
 
 # Getting started
 
 
 * ### Clone the repo <br>
-git clone https://github.com/danaciobo/Swoop.git<br>
+git clone https://github.com/danaciobo/Swoop_2.git<br>
 cd Swoop<br>
 Install dependencies in both /Client and /Server folders<br>
 npm install
@@ -31,7 +33,7 @@ npm start <br><br>
 * #### Node Js<br>
 * #### Express JS<br>
 * #### Mongo DB with Mongoose <br>
-* #### Multer <br>
+* #### Cloudinary <br>
 
 
 # Author
